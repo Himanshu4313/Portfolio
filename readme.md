@@ -45,6 +45,6 @@ git clone <git repository url>
 
 ## Deployment Link 
  
-  Live_link[]
+  Live_link[`https://portfolio-inky-delta-83.vercel.app/`]
 
  
